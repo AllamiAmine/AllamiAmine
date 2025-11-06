@@ -29,12 +29,6 @@ It handles reservations, payments, and customer management through an admin dash
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AllamiAmine&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllamiAmine&theme=tokyonight" height="160px" />
-</p>
 
 ---
 

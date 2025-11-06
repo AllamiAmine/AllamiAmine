@@ -30,8 +30,6 @@ It handles reservations, payments, and customer management through an admin dash
 ---
 
 
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
